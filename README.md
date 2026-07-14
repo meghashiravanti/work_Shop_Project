@@ -1,3 +1,9 @@
+#Dtaset
+
+The dataset is too targe to store in this repository
+Download the PlantVillage dataset from Kaggle:
+https://www.kaggle.com/datasets/mohitsingh1804/plantvillage?utm_source=chatgpt.com
+
 # 📈 Indian Startups Funding Analysis
 
 > A data analysis project developed during a **9-Day Machine Learning Workshop** to explore funding trends in the Indian startup ecosystem using Python and Pandas.
